@@ -1,3 +1,4 @@
+
 ## PT/BR
 # NextGradient
 
@@ -18,10 +19,8 @@ NextGradient é uma aplicação simples construída com Next.js e React que perm
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## Como rodar o projeto
-
-1. Clone este repositório:
-
 ```bash
+1. Clone este repositório:
 git clone https://github.com/seu-usuario/next-gradient.git
 
 2. Acesse a pasta do projeto:
@@ -45,7 +44,7 @@ git clone https://github.com/seu-usuario/next-gradient.git
   │       └── GradientGenerator.tsx
   ├── package.json
   └── README.md
-
+```
 ## EN
 # NextGradient
 
@@ -66,10 +65,9 @@ NextGradient is a simple application built with Next.js and React that allows yo
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## How to Run the Project
-
+```bash
 1. Clone this repository:
 
-```bash
 git clone https://github.com/your-username/next-gradient.git
 
 2. Navigate to the project folder:
@@ -92,3 +90,4 @@ git clone https://github.com/your-username/next-gradient.git
   │       └── GradientGenerator.tsx
   ├── package.json
   └── README.md
+```
